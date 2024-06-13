@@ -1,7 +1,8 @@
 import css from './App.module.css';
 import Sidebar from './components/Sidebar';
 import NavBarSimple from './components/NavBarSimple';
-import NavBarForm from './components/NavBarForm'
+import NavBarForm from './components/NavBarForm';
+import Content from './components/challenge-4/Content';
 import React from 'react';
 
 function App() {
@@ -15,7 +16,10 @@ function App() {
             /* <NavBarSimple name="Ava" /> */
 
             // Challenge 3
-            <NavBarForm />
+            /* <NavBarForm /> */
+
+            // Challenge 4
+            <Content />
         }       
     </div>
   );
