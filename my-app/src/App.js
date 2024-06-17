@@ -2,7 +2,7 @@ import css from './App.module.css';
 import Sidebar from './components/Sidebar';
 import NavBarSimple from './components/NavBarSimple';
 import NavBarForm from './components/NavBarForm';
-import Content from './components/challenge-4/Content';
+import Content from './components/Content';
 import React from 'react';
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
             // Challenge 3
             /* <NavBarForm /> */
 
-            // Challenge 4
+            // Challenge 4 & 5
             <Content />
         }       
     </div>

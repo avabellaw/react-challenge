@@ -1,5 +1,5 @@
 import React from 'react'
-import css from '../css/Content.module.css'
+import css from './css/Content.module.css'
 
 function PostItem(props) {
     return (
