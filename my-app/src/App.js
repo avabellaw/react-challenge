@@ -18,7 +18,7 @@ function App() {
             // Challenge 3
             /* <NavBarForm /> */
 
-            // Challenge 4 & 5
+            // Challenge 4 & 5 & 6
             <Content />
         }       
     </div>
